@@ -12,3 +12,7 @@ function b (t, w) {
 function bc (t, w) {
   return t + w + 'tomato';
 }
+
+function d (t, w) {
+  return t + w + 'tomato';
+}
