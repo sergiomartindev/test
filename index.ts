@@ -4,3 +4,7 @@ const containerType = 'lata';
 function a (b, c) {
   return b * c;
 }
+
+function b (t, w) {
+  return t + w + 'potato';
+}
