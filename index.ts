@@ -1,2 +1,2 @@
-var a = 23;
-var c = 'lata';
+const age = 23;
+const containerType = 'lata';
