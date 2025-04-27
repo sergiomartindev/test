@@ -8,3 +8,7 @@ function a (b, c) {
 function b (t, w) {
   return t + w + 'potato';
 }
+
+function bc (t, w) {
+  return t + w + 'tomato';
+}
